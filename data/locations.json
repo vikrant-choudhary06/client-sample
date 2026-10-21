@@ -1,0 +1,934 @@
+[
+  {
+    "id": "loc-mumbai-01",
+    "name": "Andheri",
+    "slug": "modular-kitchen-in-andheri",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Andheri, Mumbai | Custom Designs by Miiday Studio",
+    "metaDescription": "Transform your culinary space with custom modular kitchens in Andheri, Mumbai. Precision German hardware, moisture-resistant HDHMR, 3D design, and turnkey installation by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Juhu", "slug": "modular-kitchen-in-juhu" },
+      { "name": "Lokhandwala", "slug": "modular-kitchen-in-lokhandwala" },
+      { "name": "Versova", "slug": "modular-kitchen-in-versova" },
+      { "name": "Vile Parle", "slug": "modular-kitchen-in-vile-parle" },
+      { "name": "Goregaon", "slug": "modular-kitchen-in-goregaon" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "L-Shaped Kitchen", "Acrylic High-Gloss", "Soft-Close Pantry Pullouts"],
+    "landmarkContext": "Serving luxury apartments and residences across Link Road, SV Road, and Lokhandwala Complex."
+  },
+  {
+    "id": "loc-mumbai-02",
+    "name": "Bandra",
+    "slug": "modular-kitchen-in-bandra",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400050",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Bandra, Mumbai | Luxury Kitchen Interior Studio",
+    "metaDescription": "Bespoke modular kitchen design and installation in Bandra, Mumbai. Scandinavian aesthetics, matte PU finishes, quartz countertops, and ergonomic storage by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Khar", "slug": "modular-kitchen-in-khar" },
+      { "name": "Pali Hill", "slug": "modular-kitchen-in-pali-hill" },
+      { "name": "BKC (Bandra Kurla Complex)", "slug": "modular-kitchen-in-bkc" },
+      { "name": "Mahim", "slug": "modular-kitchen-in-mahim" },
+      { "name": "Santacruz", "slug": "modular-kitchen-in-santacruz" }
+    ],
+    "popularLayouts": ["Island Kitchen", "Handleless Minimalist", "Matte PU Lacquer", "Built-in Appliances"],
+    "landmarkContext": "Crafted for heritage bungalows, sea-facing seafront apartments, and contemporary flats near Pali Hill and Turner Road."
+  },
+  {
+    "id": "loc-mumbai-03",
+    "name": "Powai",
+    "slug": "modular-kitchen-in-powai",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400076",
+    "region": "Central Suburbs",
+    "seoTitle": "Modular Kitchen in Powai, Mumbai | Smart Space-Saving Kitchens",
+    "metaDescription": "Modern, ergonomic modular kitchens in Powai, Mumbai. Designed for high-rise gated communities like Hiranandani Gardens with waterproof cabinetry and durable hardware.",
+    "nearbyAreas": [
+      { "name": "Kanjurmarg", "slug": "modular-kitchen-in-kanjurmarg" },
+      { "name": "Vikhroli", "slug": "modular-kitchen-in-vikhroli" },
+      { "name": "Ghatkopar", "slug": "modular-kitchen-in-ghatkopar" },
+      { "name": "Andheri", "slug": "modular-kitchen-in-andheri" }
+    ],
+    "popularLayouts": ["U-Shaped Kitchen", "Parallel Kitchen", "Anti-Scratch Acrylic", "Tandem Drawer Systems"],
+    "landmarkContext": "Specialized layouts for Hiranandani township high-rises and tech park residences along JVLR."
+  },
+  {
+    "id": "loc-mumbai-04",
+    "name": "Juhu",
+    "slug": "modular-kitchen-in-juhu",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400049",
+    "region": "Western Suburbs",
+    "seoTitle": "Luxury Modular Kitchen in Juhu, Mumbai | Miiday Studio",
+    "metaDescription": "Architectural luxury modular kitchens in Juhu, Mumbai. Custom cabinetry with corrosion-resistant finishes, quartz surfaces, and European motorized fittings.",
+    "nearbyAreas": [
+      { "name": "Andheri", "slug": "modular-kitchen-in-andheri" },
+      { "name": "Vile Parle", "slug": "modular-kitchen-in-vile-parle" },
+      { "name": "Santacruz", "slug": "modular-kitchen-in-santacruz" },
+      { "name": "Versova", "slug": "modular-kitchen-in-versova" }
+    ],
+    "popularLayouts": ["Grand Island Kitchen", "Veneer & Fluted Glass", "Smart Automated Lift-ups"],
+    "landmarkContext": "Tailored for sea-facing residences and luxury villas along Juhu Tara Road and JVPD Scheme."
+  },
+  {
+    "id": "loc-mumbai-05",
+    "name": "Borivali",
+    "slug": "modular-kitchen-in-borivali",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400092",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Borivali, Mumbai | Durable & Modern Designs",
+    "metaDescription": "Long-lasting, termite-proof modular kitchen design and setup in Borivali, Mumbai. Customized storage, boil-proof plywood, and premium laminates by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Kandivali", "slug": "modular-kitchen-in-kandivali" },
+      { "name": "Dahisar", "slug": "modular-kitchen-in-dahisar" },
+      { "name": "Malad", "slug": "modular-kitchen-in-malad" },
+      { "name": "Goregaon", "slug": "modular-kitchen-in-goregaon" }
+    ],
+    "popularLayouts": ["L-Shaped Kitchen", "Straight Compact Kitchen", "Textured Laminates", "Corner Carousel"],
+    "landmarkContext": "Optimal space utilization for modern high-rises near Shimpoli, IC Colony, and Western Express Highway."
+  },
+  {
+    "id": "loc-mumbai-06",
+    "name": "Dadar",
+    "slug": "modular-kitchen-in-dadar",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400014",
+    "region": "South Central Mumbai",
+    "seoTitle": "Modular Kitchen in Dadar, Mumbai | Space-Efficient Kitchen Remodeling",
+    "metaDescription": "Expert modular kitchen manufacturing and installation in Dadar, Mumbai. Ideal for apartment renovations and newly developed towers near Shivaji Park and Hindu Colony.",
+    "nearbyAreas": [
+      { "name": "Prabhadevi", "slug": "modular-kitchen-in-prabhadevi" },
+      { "name": "Matunga", "slug": "modular-kitchen-in-matunga" },
+      { "name": "Mahim", "slug": "modular-kitchen-in-mahim" },
+      { "name": "Parel", "slug": "modular-kitchen-in-parel" },
+      { "name": "Wadala", "slug": "modular-kitchen-in-wadala" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "Compact L-Shape", "Boil Waterproof HDHMR", "Tall Unit Pantry"],
+    "landmarkContext": "Custom designed for residential redevelopment towers near Shivaji Park and Dr. Babasaheb Ambedkar Road."
+  },
+  {
+    "id": "loc-mumbai-07",
+    "name": "Worli",
+    "slug": "modular-kitchen-in-worli",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400018",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Worli, Mumbai | Ultra-Modern Kitchen Aesthetics",
+    "metaDescription": "Premium modular kitchen installations for luxury high-rises in Worli, Mumbai. German fittings, anti-fingerprint matte surfaces, and integrated kitchen appliances.",
+    "nearbyAreas": [
+      { "name": "Lower Parel", "slug": "modular-kitchen-in-lower-parel" },
+      { "name": "Prabhadevi", "slug": "modular-kitchen-in-prabhadevi" },
+      { "name": "Mahalaxmi", "slug": "modular-kitchen-in-tardeo" },
+      { "name": "Dadar", "slug": "modular-kitchen-in-dadar" }
+    ],
+    "popularLayouts": ["Open Island Kitchen", "Handleless Gola Profile", "Sintered Stone Countertops"],
+    "landmarkContext": "Engineered for prestigious high-rise towers along Worli Sea Face and Annie Besant Road."
+  },
+  {
+    "id": "loc-mumbai-08",
+    "name": "Lower Parel",
+    "slug": "modular-kitchen-in-lower-parel",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400013",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Lower Parel, Mumbai | Contemporary Designer Kitchens",
+    "metaDescription": "Contemporary modular kitchen design and build in Lower Parel, Mumbai. Built for luxury residential towers with smart pullouts, durable quartz, and custom finishes.",
+    "nearbyAreas": [
+      { "name": "Worli", "slug": "modular-kitchen-in-worli" },
+      { "name": "Parel", "slug": "modular-kitchen-in-parel" },
+      { "name": "Prabhadevi", "slug": "modular-kitchen-in-prabhadevi" },
+      { "name": "Byculla", "slug": "modular-kitchen-in-byculla" }
+    ],
+    "popularLayouts": ["Modern Parallel Kitchen", "Breakfast Counter Island", "Acrylic & Ceramic Finishes"],
+    "landmarkContext": "Serving upscale complexes in the Phoenix Mills and Senapati Bapat Marg corridor."
+  },
+  {
+    "id": "loc-mumbai-09",
+    "name": "Santacruz",
+    "slug": "modular-kitchen-in-santacruz",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400054",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Santacruz, Mumbai | Tailored Kitchen Interiors",
+    "metaDescription": "Expert modular kitchen design, fabrication, and fitting in Santacruz, Mumbai. Termite-proof, moisture-sealed cabinetry with sleek European hardware.",
+    "nearbyAreas": [
+      { "name": "Khar", "slug": "modular-kitchen-in-khar" },
+      { "name": "Vile Parle", "slug": "modular-kitchen-in-vile-parle" },
+      { "name": "Bandra", "slug": "modular-kitchen-in-bandra" },
+      { "name": "Juhu", "slug": "modular-kitchen-in-juhu" }
+    ],
+    "popularLayouts": ["L-Shaped Kitchen", "Parallel Layout", "Soft-Touch Matte Laminate"],
+    "landmarkContext": "Crafted for residential enclaves across Santacruz West, Linking Road, and Kalina."
+  },
+  {
+    "id": "loc-mumbai-10",
+    "name": "Goregaon",
+    "slug": "modular-kitchen-in-goregaon",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400063",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Goregaon, Mumbai | Quality Cabinetry & Installation",
+    "metaDescription": "Modular kitchen specialists in Goregaon, Mumbai. Custom cabinetry for 2 BHK, 3 BHK, and duplex homes near Oberoi Garden City and Bangur Nagar.",
+    "nearbyAreas": [
+      { "name": "Malad", "slug": "modular-kitchen-in-malad" },
+      { "name": "Andheri", "slug": "modular-kitchen-in-andheri" },
+      { "name": "Oshiwara", "slug": "modular-kitchen-in-oshiwara" },
+      { "name": "Kandivali", "slug": "modular-kitchen-in-kandivali" }
+    ],
+    "popularLayouts": ["U-Shaped Modular Kitchen", "Compact Parallel", "Glass Shutter Wall Cabinets"],
+    "landmarkContext": "Serving gated communities near Oberoi Mall, Film City Road, and Link Road."
+  },
+  {
+    "id": "loc-mumbai-11",
+    "name": "Malad",
+    "slug": "modular-kitchen-in-malad",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400064",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Malad, Mumbai | Affordable & Luxury Kitchens",
+    "metaDescription": "Design and manufacture your dream modular kitchen in Malad, Mumbai. Premium hardware, waterproof core boards, and quick 45-day turnkey delivery.",
+    "nearbyAreas": [
+      { "name": "Goregaon", "slug": "modular-kitchen-in-goregaon" },
+      { "name": "Kandivali", "slug": "modular-kitchen-in-kandivali" },
+      { "name": "Borivali", "slug": "modular-kitchen-in-borivali" },
+      { "name": "Oshiwara", "slug": "modular-kitchen-in-oshiwara" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "L-Shaped Kitchen", "Acrylic Shutters", "Magic Corner Units"],
+    "landmarkContext": "Popular in modern townships across Mindspace, Chincholi Bunder, and Marve Road."
+  },
+  {
+    "id": "loc-mumbai-12",
+    "name": "Kandivali",
+    "slug": "modular-kitchen-in-kandivali",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400067",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Kandivali, Mumbai | Ergonomic Kitchen Solutions",
+    "metaDescription": "Turnkey modular kitchen solutions in Kandivali, Mumbai. Tailored layouts, moisture-proof materials, and high-load drawer systems for family cooking.",
+    "nearbyAreas": [
+      { "name": "Borivali", "slug": "modular-kitchen-in-borivali" },
+      { "name": "Malad", "slug": "modular-kitchen-in-malad" },
+      { "name": "Dahisar", "slug": "modular-kitchen-in-dahisar" }
+    ],
+    "popularLayouts": ["L-Shaped Kitchen", "Straight Layout with Breakfast Bar", "High-Gloss Laminate"],
+    "landmarkContext": "Extensive installations in Thakur Village, Thakur Complex, and Mahavir Nagar."
+  },
+  {
+    "id": "loc-mumbai-13",
+    "name": "Khar",
+    "slug": "modular-kitchen-in-khar",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400052",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Khar, Mumbai | Elegant Bespoke Kitchen Studios",
+    "metaDescription": "Sophisticated modular kitchen installations in Khar, Mumbai. Italian design sensibilities, custom lacquer coatings, and intelligent kitchen pantry systems.",
+    "nearbyAreas": [
+      { "name": "Bandra", "slug": "modular-kitchen-in-bandra" },
+      { "name": "Santacruz", "slug": "modular-kitchen-in-santacruz" },
+      { "name": "Pali Hill", "slug": "modular-kitchen-in-pali-hill" },
+      { "name": "Carter Road", "slug": "modular-kitchen-in-carter-road" }
+    ],
+    "popularLayouts": ["Minimalist Island Kitchen", "Veneer Finish", "Integrated Dishwasher Units"],
+    "landmarkContext": "Fitted for luxury boutique apartments on 14th Road, Khar Danda, and SV Road."
+  },
+  {
+    "id": "loc-mumbai-14",
+    "name": "Vile Parle",
+    "slug": "modular-kitchen-in-vile-parle",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400057",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Vile Parle, Mumbai | Precision Manufactured Kitchens",
+    "metaDescription": "Custom modular kitchens designed and built for Vile Parle homeowners. Durable BWP plywood, soft-closing hinges, and functional spice pullouts.",
+    "nearbyAreas": [
+      { "name": "Andheri", "slug": "modular-kitchen-in-andheri" },
+      { "name": "Santacruz", "slug": "modular-kitchen-in-santacruz" },
+      { "name": "Juhu", "slug": "modular-kitchen-in-juhu" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "L-Shaped Counter", "Matte Acrylic Finishes"],
+    "landmarkContext": "Renovating residential heritage societies and new towers in Vile Parle East & West."
+  },
+  {
+    "id": "loc-mumbai-15",
+    "name": "Chembur",
+    "slug": "modular-kitchen-in-chembur",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400071",
+    "region": "Eastern Suburbs",
+    "seoTitle": "Modular Kitchen in Chembur, Mumbai | Smart Storage & Modern Cabinets",
+    "metaDescription": "Custom modular kitchen manufacturing and design in Chembur, Mumbai. Waterproof cabinetry, European hardware, and end-to-end site installation.",
+    "nearbyAreas": [
+      { "name": "Ghatkopar", "slug": "modular-kitchen-in-ghatkopar" },
+      { "name": "Kurla", "slug": "modular-kitchen-in-kurla" },
+      { "name": "Wadala", "slug": "modular-kitchen-in-wadala" },
+      { "name": "Deonar", "slug": "modular-kitchen-in-deonar" },
+      { "name": "Tilak Nagar", "slug": "modular-kitchen-in-tilak-nagar" }
+    ],
+    "popularLayouts": ["L-Shape Modular Kitchen", "Parallel Counter", "Dual Tone Finish"],
+    "landmarkContext": "Installed across Diamond Garden, pestom sagar, and Eastern Freeway residential hubs."
+  },
+  {
+    "id": "loc-mumbai-16",
+    "name": "Ghatkopar",
+    "slug": "modular-kitchen-in-ghatkopar",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400077",
+    "region": "Central Suburbs",
+    "seoTitle": "Modular Kitchen in Ghatkopar, Mumbai | Quality Kitchen Interiors",
+    "metaDescription": "Bespoke modular kitchens in Ghatkopar East & West. Heavy-duty tandem boxes, corrosion-free SS304 baskets, and granite/quartz countertop coordination.",
+    "nearbyAreas": [
+      { "name": "Vikhroli", "slug": "modular-kitchen-in-vikhroli" },
+      { "name": "Powai", "slug": "modular-kitchen-in-powai" },
+      { "name": "Chembur", "slug": "modular-kitchen-in-chembur" },
+      { "name": "Vidyavihar", "slug": "modular-kitchen-in-vidyavihar" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "U-Shape Kitchen", "Gloss Acrylic", "Wicker Basket Storage"],
+    "landmarkContext": "Tailored for residences along R-City Mall belt, Vallabh Baug Lane, and Tilak Road."
+  },
+  {
+    "id": "loc-mumbai-17",
+    "name": "Mulund",
+    "slug": "modular-kitchen-in-mulund",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400080",
+    "region": "Central Suburbs",
+    "seoTitle": "Modular Kitchen in Mulund, Mumbai | Ergonomic Home Kitchens",
+    "metaDescription": "Premium modular kitchen solutions for Mulund residences. Seamless factory-finish shutters, 100% boiling waterproof materials, and 10-year warranty.",
+    "nearbyAreas": [
+      { "name": "Bhandup", "slug": "modular-kitchen-in-bhandup" },
+      { "name": "Kanjurmarg", "slug": "modular-kitchen-in-kanjurmarg" },
+      { "name": "Vikhroli", "slug": "modular-kitchen-in-vikhroli" }
+    ],
+    "popularLayouts": ["L-Shaped Kitchen", "Parallel Layout", "Anti-Scratch Matte", "Pantry Cabinets"],
+    "landmarkContext": "Ideal for spacious high-rises on LBS Marg and Cypress area."
+  },
+  {
+    "id": "loc-mumbai-18",
+    "name": "Kurla",
+    "slug": "modular-kitchen-in-kurla",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400070",
+    "region": "Central Suburbs",
+    "seoTitle": "Modular Kitchen in Kurla, Mumbai | Smart Compact & Family Kitchens",
+    "metaDescription": "Quality modular kitchen design and installation in Kurla, Mumbai. Maximum storage efficiency, moisture-resistant HDHMR boards, and custom color palettes.",
+    "nearbyAreas": [
+      { "name": "BKC (Bandra Kurla Complex)", "slug": "modular-kitchen-in-bkc" },
+      { "name": "Chembur", "slug": "modular-kitchen-in-chembur" },
+      { "name": "Ghatkopar", "slug": "modular-kitchen-in-ghatkopar" },
+      { "name": "Sion", "slug": "modular-kitchen-in-sion" }
+    ],
+    "popularLayouts": ["Straight Kitchen", "L-Shaped Kitchen", "High-Gloss Laminate"],
+    "landmarkContext": "Convenient service for apartments near Phoenix Marketcity and Kohinoor City."
+  },
+  {
+    "id": "loc-mumbai-19",
+    "name": "Prabhadevi",
+    "slug": "modular-kitchen-in-prabhadevi",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400025",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Prabhadevi, Mumbai | Luxury High-Rise Kitchens",
+    "metaDescription": "Exclusive modular kitchen interior designs for Prabhadevi towers. Custom Italian styling, ceramic stone benchtops, and smooth soft-close motion hardware.",
+    "nearbyAreas": [
+      { "name": "Worli", "slug": "modular-kitchen-in-worli" },
+      { "name": "Dadar", "slug": "modular-kitchen-in-dadar" },
+      { "name": "Lower Parel", "slug": "modular-kitchen-in-lower-parel" },
+      { "name": "Mahim", "slug": "modular-kitchen-in-mahim" }
+    ],
+    "popularLayouts": ["Island Kitchen", "Gola Profile Handleless", "Polyurethane Matte Lacquer"],
+    "landmarkContext": "Designed for premier luxury residences surrounding Siddhivinayak Temple and sea front."
+  },
+  {
+    "id": "loc-mumbai-20",
+    "name": "Mahim",
+    "slug": "modular-kitchen-in-mahim",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400016",
+    "region": "South Central Mumbai",
+    "seoTitle": "Modular Kitchen in Mahim, Mumbai | Precision Craftsmanship",
+    "metaDescription": "Turnkey modular kitchens in Mahim, Mumbai. Combining durable boil-proof materials with modern hardware, tailor-made for Mumbai coastal climate.",
+    "nearbyAreas": [
+      { "name": "Bandra", "slug": "modular-kitchen-in-bandra" },
+      { "name": "Dadar", "slug": "modular-kitchen-in-dadar" },
+      { "name": "Matunga", "slug": "modular-kitchen-in-matunga" },
+      { "name": "Prabhadevi", "slug": "modular-kitchen-in-prabhadevi" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "L-Shaped Kitchen", "Acrylic Shutters"],
+    "landmarkContext": "Customized for waterfront flats and classic residential buildings around Lady Jamshedji Road."
+  },
+  {
+    "id": "loc-mumbai-21",
+    "name": "Colaba",
+    "slug": "modular-kitchen-in-colaba",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400005",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Colaba, Mumbai | Heritage & Modern Luxury Kitchens",
+    "metaDescription": "Refined modular kitchens in Colaba, Mumbai. Blending historical architectural elegance with modern European cabinetry, quartz counters, and German fittings.",
+    "nearbyAreas": [
+      { "name": "Cuffe Parade", "slug": "modular-kitchen-in-cuffe-parade" },
+      { "name": "Churchgate", "slug": "modular-kitchen-in-churchgate" },
+      { "name": "Nariman Point", "slug": "modular-kitchen-in-nariman-point" },
+      { "name": "Marine Lines", "slug": "modular-kitchen-in-marine-lines" }
+    ],
+    "popularLayouts": ["Classic Shaker Style", "Island Kitchen", "Solid Wood Veneer", "Brass Handles"],
+    "landmarkContext": "Specialized solutions for heritage apartment layouts and sea-breeze environments."
+  },
+  {
+    "id": "loc-mumbai-22",
+    "name": "Marine Lines",
+    "slug": "modular-kitchen-in-marine-lines",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400020",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Marine Lines, Mumbai | Art Deco & Modern Interiors",
+    "metaDescription": "Custom modular kitchen design for Marine Lines residences. Moisture-sealed materials, clean lines, and silent slide systems crafted by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Churchgate", "slug": "modular-kitchen-in-churchgate" },
+      { "name": "Charni Road", "slug": "modular-kitchen-in-charni-road" },
+      { "name": "Colaba", "slug": "modular-kitchen-in-colaba" },
+      { "name": "Nariman Point", "slug": "modular-kitchen-in-nariman-point" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "Handleless Minimalist", "Quartz Surfaces"],
+    "landmarkContext": "Carefully measured for art deco apartments facing the Marine Drive promenade."
+  },
+  {
+    "id": "loc-mumbai-23",
+    "name": "Nariman Point",
+    "slug": "modular-kitchen-in-nariman-point",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400021",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Nariman Point, Mumbai | High-End Kitchens",
+    "metaDescription": "Bespoke modular kitchens in Nariman Point, Mumbai. Luxury materials, integrated cooling, and precision installation by Miiday Studio's master carpenters.",
+    "nearbyAreas": [
+      { "name": "Cuffe Parade", "slug": "modular-kitchen-in-cuffe-parade" },
+      { "name": "Colaba", "slug": "modular-kitchen-in-colaba" },
+      { "name": "Churchgate", "slug": "modular-kitchen-in-churchgate" }
+    ],
+    "popularLayouts": ["Open Concept Kitchen", "Matte Polyurethane", "Concealed Induction Hobs"],
+    "landmarkContext": "Precision fits for South Mumbai's prestigious residential penthouses and suites."
+  },
+  {
+    "id": "loc-mumbai-24",
+    "name": "Churchgate",
+    "slug": "modular-kitchen-in-churchgate",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400020",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Churchgate, Mumbai | Elegant Kitchen Remodeling",
+    "metaDescription": "Architectural modular kitchen renovations in Churchgate, Mumbai. Termite-proof HDHMR construction, ergonomic corner carousels, and 3D visualization.",
+    "nearbyAreas": [
+      { "name": "Marine Lines", "slug": "modular-kitchen-in-marine-lines" },
+      { "name": "Colaba", "slug": "modular-kitchen-in-colaba" },
+      { "name": "Nariman Point", "slug": "modular-kitchen-in-nariman-point" }
+    ],
+    "popularLayouts": ["Parallel Modular Kitchen", "Warm Walnut Veneer", "Glass Backsplash"],
+    "landmarkContext": "Ideal for spacious high-ceiling residences along Oval Maidan and Maharshi Karve Road."
+  },
+  {
+    "id": "loc-mumbai-25",
+    "name": "Byculla",
+    "slug": "modular-kitchen-in-byculla",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400027",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Byculla, Mumbai | Modern Kitchen Cabinetry",
+    "metaDescription": "Modern modular kitchen manufacturing in Byculla, Mumbai. Premium hardware, custom tall units, and durable acrylic finishes for high-rise residences.",
+    "nearbyAreas": [
+      { "name": "Parel", "slug": "modular-kitchen-in-parel" },
+      { "name": "Lower Parel", "slug": "modular-kitchen-in-lower-parel" },
+      { "name": "Mazgaon", "slug": "modular-kitchen-in-mazgaon" },
+      { "name": "Tardeo", "slug": "modular-kitchen-in-tardeo" }
+    ],
+    "popularLayouts": ["L-Shape Kitchen", "Parallel Kitchen", "Anti-Scratch Acrylic"],
+    "landmarkContext": "Engineered for newly constructed skyscraper developments in Central South Mumbai."
+  },
+  {
+    "id": "loc-mumbai-26",
+    "name": "Tardeo",
+    "slug": "modular-kitchen-in-tardeo",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400034",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Tardeo, Mumbai | Luxury Kitchen Solutions",
+    "metaDescription": "Custom luxury modular kitchens in Tardeo, Mumbai. Engineered stone counters, German Blum soft-close mechanics, and modern pantry layouts.",
+    "nearbyAreas": [
+      { "name": "Breach Candy", "slug": "modular-kitchen-in-breach-candy" },
+      { "name": "Altamount Road", "slug": "modular-kitchen-in-altamount-road" },
+      { "name": "Byculla", "slug": "modular-kitchen-in-byculla" },
+      { "name": "Charni Road", "slug": "modular-kitchen-in-charni-road" }
+    ],
+    "popularLayouts": ["Island Kitchen", "Handleless J-Pull", "Satin Matte PU"],
+    "landmarkContext": "Luxury kitchen solutions for premium residences near AC Market and MP Mill Compound."
+  },
+  {
+    "id": "loc-mumbai-27",
+    "name": "Breach Candy",
+    "slug": "modular-kitchen-in-breach-candy",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400026",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Breach Candy, Mumbai | Ultra-Luxury Kitchens",
+    "metaDescription": "Ultra-luxury modular kitchens designed for Breach Candy, Mumbai. High-end natural veneers, seamless ceramic surfaces, and motorized wall units.",
+    "nearbyAreas": [
+      { "name": "Altamount Road", "slug": "modular-kitchen-in-altamount-road" },
+      { "name": "Nepean Sea Road", "slug": "modular-kitchen-in-nepean-sea-road" },
+      { "name": "Tardeo", "slug": "modular-kitchen-in-tardeo" },
+      { "name": "Walkeshwar", "slug": "modular-kitchen-in-walkeshwar" }
+    ],
+    "popularLayouts": ["Grand Island Counter", "Bookmatched Veneer", "Built-In Refrigerator Enclosures"],
+    "landmarkContext": "Crafted for prestigious sea-view apartments along Bhulabhai Desai Road."
+  },
+  {
+    "id": "loc-mumbai-28",
+    "name": "Cuffe Parade",
+    "slug": "modular-kitchen-in-cuffe-parade",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400005",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Cuffe Parade, Mumbai | Bespoke Luxury Interiors",
+    "metaDescription": "Turnkey modular kitchens in Cuffe Parade, Mumbai. Salt-air resistant hardware, waterproof core boards, and bespoke European craftsmanship by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Colaba", "slug": "modular-kitchen-in-colaba" },
+      { "name": "Nariman Point", "slug": "modular-kitchen-in-nariman-point" },
+      { "name": "Churchgate", "slug": "modular-kitchen-in-churchgate" }
+    ],
+    "popularLayouts": ["Modern Parallel Kitchen", "U-Shaped Layout", "Fingerprint-Resistant Matte"],
+    "landmarkContext": "Fitted for iconic multi-storey high-rises and sea-facing towers in Cuffe Parade."
+  },
+  {
+    "id": "loc-mumbai-29",
+    "name": "Walkeshwar",
+    "slug": "modular-kitchen-in-walkeshwar",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400006",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Walkeshwar, Mumbai | Premium Kitchen Design",
+    "metaDescription": "Exquisite modular kitchen design for Walkeshwar and Malabar Hill homes. Handcrafted finishes, heavy-load drawers, and water-repellent paneling.",
+    "nearbyAreas": [
+      { "name": "Nepean Sea Road", "slug": "modular-kitchen-in-nepean-sea-road" },
+      { "name": "Breach Candy", "slug": "modular-kitchen-in-breach-candy" },
+      { "name": "Charni Road", "slug": "modular-kitchen-in-charni-road" }
+    ],
+    "popularLayouts": ["Island Kitchen", "Minimalist White & Brass", "Glass Vitrine Cabinets"],
+    "landmarkContext": "Engineered for elite cliffside and sea-facing residences across Malabar Hill."
+  },
+  {
+    "id": "loc-mumbai-30",
+    "name": "Sion",
+    "slug": "modular-kitchen-in-sion",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400022",
+    "region": "Central Mumbai",
+    "seoTitle": "Modular Kitchen in Sion, Mumbai | Smart & Functional Kitchens",
+    "metaDescription": "Durable and aesthetic modular kitchens in Sion, Mumbai. Moisture-proof HDHMR, smooth soft-close slides, and custom corner carousels with 10-year warranty.",
+    "nearbyAreas": [
+      { "name": "Matunga", "slug": "modular-kitchen-in-matunga" },
+      { "name": "Wadala", "slug": "modular-kitchen-in-wadala" },
+      { "name": "Kurla", "slug": "modular-kitchen-in-kurla" },
+      { "name": "Dadar", "slug": "modular-kitchen-in-dadar" }
+    ],
+    "popularLayouts": ["L-Shaped Kitchen", "Parallel Layout", "Textured Laminate"],
+    "landmarkContext": "Customized for Sion East & West residential developments and central connectivity hubs."
+  },
+  {
+    "id": "loc-mumbai-31",
+    "name": "Wadala",
+    "slug": "modular-kitchen-in-wadala",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400031",
+    "region": "South Central Mumbai",
+    "seoTitle": "Modular Kitchen in Wadala, Mumbai | Modern High-Rise Kitchens",
+    "metaDescription": "Turnkey modular kitchen design and installation for Wadala towers. Factory-calibrated precision, acrylic shutters, and modular pantry units by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Dadar", "slug": "modular-kitchen-in-dadar" },
+      { "name": "Sion", "slug": "modular-kitchen-in-sion" },
+      { "name": "Matunga", "slug": "modular-kitchen-in-matunga" },
+      { "name": "Sewri", "slug": "modular-kitchen-in-sewri" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "Island with Bar Counter", "Gloss Acrylic"],
+    "landmarkContext": "Popular in modern townships like Lodha New Cuffe Parade and Bhakti Park."
+  },
+  {
+    "id": "loc-mumbai-32",
+    "name": "Vikhroli",
+    "slug": "modular-kitchen-in-vikhroli",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400079",
+    "region": "Central Suburbs",
+    "seoTitle": "Modular Kitchen in Vikhroli, Mumbai | Contemporary Kitchens",
+    "metaDescription": "Modern modular kitchens in Vikhroli, Mumbai. Designed for premium apartments near Godrej The Trees with waterproof core boards and silent closing hinges.",
+    "nearbyAreas": [
+      { "name": "Powai", "slug": "modular-kitchen-in-powai" },
+      { "name": "Kanjurmarg", "slug": "modular-kitchen-in-kanjurmarg" },
+      { "name": "Ghatkopar", "slug": "modular-kitchen-in-ghatkopar" }
+    ],
+    "popularLayouts": ["L-Shape Kitchen", "Straight Kitchen with Lofts", "Anti-Scratch Laminate"],
+    "landmarkContext": "Engineered for sustainable modern apartments around Eastern Express Highway."
+  },
+  {
+    "id": "loc-mumbai-33",
+    "name": "Bhandup",
+    "slug": "modular-kitchen-in-bhandup",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400078",
+    "region": "Central Suburbs",
+    "seoTitle": "Modular Kitchen in Bhandup, Mumbai | Budget-Friendly & Durable",
+    "metaDescription": "Quality modular kitchens in Bhandup West & East. Heavy-gauge stainless steel accessories, BWP plywood carcasses, and 3D design consultation.",
+    "nearbyAreas": [
+      { "name": "Mulund", "slug": "modular-kitchen-in-mulund" },
+      { "name": "Kanjurmarg", "slug": "modular-kitchen-in-kanjurmarg" },
+      { "name": "Powai", "slug": "modular-kitchen-in-powai" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "L-Shaped Kitchen", "Gloss & Matte Laminates"],
+    "landmarkContext": "Space-optimized layouts for emerging high-rises on LBS Marg."
+  },
+  {
+    "id": "loc-mumbai-34",
+    "name": "Dahisar",
+    "slug": "modular-kitchen-in-dahisar",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400068",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Dahisar, Mumbai | Space-Efficient Kitchen Solutions",
+    "metaDescription": "Custom modular kitchen manufacturing for Dahisar homes. Termite-resistant materials, smart pullout pantries, and easy maintenance finishes.",
+    "nearbyAreas": [
+      { "name": "Borivali", "slug": "modular-kitchen-in-borivali" },
+      { "name": "Kandivali", "slug": "modular-kitchen-in-kandivali" }
+    ],
+    "popularLayouts": ["L-Shaped Modular Kitchen", "Compact Straight Kitchen", "Acrylic Shutters"],
+    "landmarkContext": "Ideal for residential towers near Western Express Highway and Link Road extension."
+  },
+  {
+    "id": "loc-mumbai-35",
+    "name": "Kanjurmarg",
+    "slug": "modular-kitchen-in-kanjurmarg",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400042",
+    "region": "Central Suburbs",
+    "seoTitle": "Modular Kitchen in Kanjurmarg, Mumbai | Modern Kitchen Cabinetry",
+    "metaDescription": "Sleek and sturdy modular kitchens in Kanjurmarg, Mumbai. Tailored for corporate professionals in Runwal Bliss, Karvenagar, and surrounding towers.",
+    "nearbyAreas": [
+      { "name": "Powai", "slug": "modular-kitchen-in-powai" },
+      { "name": "Vikhroli", "slug": "modular-kitchen-in-vikhroli" },
+      { "name": "Bhandup", "slug": "modular-kitchen-in-bhandup" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "L-Shaped Kitchen", "Quartz Countertop Integration"],
+    "landmarkContext": "Serving high-rise residential complexes near JVLR and Kanjurmarg East & West."
+  },
+  {
+    "id": "loc-mumbai-36",
+    "name": "BKC (Bandra Kurla Complex)",
+    "slug": "modular-kitchen-in-bkc",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400051",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in BKC, Mumbai | Luxury Corporate Residences",
+    "metaDescription": "Ultra-modern modular kitchens in Bandra Kurla Complex (BKC). Minimalist handleless profiles, built-in German appliances, and high-gloss acrylic finishes.",
+    "nearbyAreas": [
+      { "name": "Bandra", "slug": "modular-kitchen-in-bandra" },
+      { "name": "Kurla", "slug": "modular-kitchen-in-kurla" },
+      { "name": "Santacruz", "slug": "modular-kitchen-in-santacruz" }
+    ],
+    "popularLayouts": ["Open Island Kitchen", "Handleless J-Pull", "Quartz Slabs", "Under-Cabinet Lighting"],
+    "landmarkContext": "Designed for luxury executive residences and signature towers in BKC."
+  },
+  {
+    "id": "loc-mumbai-37",
+    "name": "Matunga",
+    "slug": "modular-kitchen-in-matunga",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400019",
+    "region": "Central Mumbai",
+    "seoTitle": "Modular Kitchen in Matunga, Mumbai | Ergonomic Custom Kitchens",
+    "metaDescription": "Handcrafted modular kitchen designs for Matunga homes. Water-resistant HDHMR, smart spice racks, and durable hardware tailored to modern and traditional Indian cooking.",
+    "nearbyAreas": [
+      { "name": "Dadar", "slug": "modular-kitchen-in-dadar" },
+      { "name": "Sion", "slug": "modular-kitchen-in-sion" },
+      { "name": "Wadala", "slug": "modular-kitchen-in-wadala" },
+      { "name": "Mahim", "slug": "modular-kitchen-in-mahim" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "L-Shaped Kitchen", "Wood Grain Laminate", "Tandem Drawers"],
+    "landmarkContext": "Renovating residential flats and new towers near King's Circle and Five Gardens."
+  },
+  {
+    "id": "loc-mumbai-38",
+    "name": "Charni Road",
+    "slug": "modular-kitchen-in-charni-road",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400004",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Charni Road, Mumbai | Compact & Luxury Kitchens",
+    "metaDescription": "Bespoke modular kitchens in Charni Road, Mumbai. Maximize kitchen square footage with customized tall units, heavy-duty baskets, and anti-termite core boards.",
+    "nearbyAreas": [
+      { "name": "Marine Lines", "slug": "modular-kitchen-in-marine-lines" },
+      { "name": "Tardeo", "slug": "modular-kitchen-in-tardeo" },
+      { "name": "Walkeshwar", "slug": "modular-kitchen-in-walkeshwar" },
+      { "name": "Byculla", "slug": "modular-kitchen-in-byculla" }
+    ],
+    "popularLayouts": ["Parallel Layout", "Compact L-Shape", "Acrylic Glass Shutters"],
+    "landmarkContext": "Expertly measured for classic buildings and newly redeveloped towers near Girgaon Chowpatty."
+  },
+  {
+    "id": "loc-mumbai-39",
+    "name": "Parel",
+    "slug": "modular-kitchen-in-parel",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400012",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Parel, Mumbai | Luxury Tower Kitchen Interiors",
+    "metaDescription": "Turnkey modular kitchens in Parel, Mumbai. Built for luxury skyscraper residences with German motion technology, scratch-resistant finishes, and quartz surfaces.",
+    "nearbyAreas": [
+      { "name": "Lower Parel", "slug": "modular-kitchen-in-lower-parel" },
+      { "name": "Dadar", "slug": "modular-kitchen-in-dadar" },
+      { "name": "Byculla", "slug": "modular-kitchen-in-byculla" },
+      { "name": "Prabhadevi", "slug": "modular-kitchen-in-prabhadevi" }
+    ],
+    "popularLayouts": ["Island Kitchen", "Parallel Layout", "Matte PU Lacquer", "Concealed Cutlery Trays"],
+    "landmarkContext": "Engineered for high-rise towers along Dr. E Moses Road and ITC Grand Central vicinity."
+  },
+  {
+    "id": "loc-mumbai-40",
+    "name": "Oshiwara",
+    "slug": "modular-kitchen-in-oshiwara",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400102",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Oshiwara, Mumbai | Trendsetting Kitchen Studios",
+    "metaDescription": "Modern modular kitchen solutions in Oshiwara, Andheri West. Factory-assembled cabinets, seamless quartz tops, and durable German fittings by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Lokhandwala", "slug": "modular-kitchen-in-lokhandwala" },
+      { "name": "Andheri", "slug": "modular-kitchen-in-andheri" },
+      { "name": "Goregaon", "slug": "modular-kitchen-in-goregaon" },
+      { "name": "Versova", "slug": "modular-kitchen-in-versova" }
+    ],
+    "popularLayouts": ["L-Shape Kitchen", "Parallel Kitchen with Breakfast Counter", "High-Gloss Acrylic"],
+    "landmarkContext": "High demand in celebrity residences and upscale towers along New Link Road."
+  },
+  {
+    "id": "loc-mumbai-41",
+    "name": "Versova",
+    "slug": "modular-kitchen-in-versova",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400061",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Versova, Mumbai | Coastal-Grade Modular Kitchens",
+    "metaDescription": "Coastal-resilient modular kitchens in Versova, Mumbai. Salt-resistant marine-grade ply, rust-proof hardware, and airy open-concept designs by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Andheri", "slug": "modular-kitchen-in-andheri" },
+      { "name": "Lokhandwala", "slug": "modular-kitchen-in-lokhandwala" },
+      { "name": "Juhu", "slug": "modular-kitchen-in-juhu" },
+      { "name": "Oshiwara", "slug": "modular-kitchen-in-oshiwara" }
+    ],
+    "popularLayouts": ["Bohemian Modern Island", "Marine BWP Ply Cabinets", "Fluted Glass Panels"],
+    "landmarkContext": "Customized for seaside apartments and creative studios along Yari Road and Versova Beach."
+  },
+  {
+    "id": "loc-mumbai-42",
+    "name": "Lokhandwala",
+    "slug": "modular-kitchen-in-lokhandwala",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Lokhandwala, Andheri | Luxury Modern Kitchens",
+    "metaDescription": "Premium modular kitchens in Lokhandwala Complex, Andheri West. High-end finishes, pantry pullouts, built-in microwaves, and 10-year warranty by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Andheri", "slug": "modular-kitchen-in-andheri" },
+      { "name": "Oshiwara", "slug": "modular-kitchen-in-oshiwara" },
+      { "name": "Versova", "slug": "modular-kitchen-in-versova" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "Island Counter", "Matte Acrylic & Veneer"],
+    "landmarkContext": "Renovating luxury apartments in Lokhandwala Complex and 4 Bungalows."
+  },
+  {
+    "id": "loc-mumbai-43",
+    "name": "Pali Hill",
+    "slug": "modular-kitchen-in-pali-hill",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400050",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Pali Hill, Bandra | Bespoke Architectural Kitchens",
+    "metaDescription": "Architect-curated modular kitchens in Pali Hill, Bandra West. Handpicked veneer, seamless sintered stone, and motorized lift-up cabinets by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Bandra", "slug": "modular-kitchen-in-bandra" },
+      { "name": "Carter Road", "slug": "modular-kitchen-in-carter-road" },
+      { "name": "Khar", "slug": "modular-kitchen-in-khar" }
+    ],
+    "popularLayouts": ["Chef Island Kitchen", "Handleless Minimalist", "Walnut Veneer & Matte Charcoal"],
+    "landmarkContext": "Tailored for ultra-luxury penthouses and tranquil hillside bungalows."
+  },
+  {
+    "id": "loc-mumbai-44",
+    "name": "Carter Road",
+    "slug": "modular-kitchen-in-carter-road",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400052",
+    "region": "Western Suburbs",
+    "seoTitle": "Modular Kitchen in Carter Road, Bandra | Sea-Facing Luxury Kitchens",
+    "metaDescription": "Bespoke modular kitchens overlooking the Arabian Sea on Carter Road, Bandra. Corrosion-resistant fittings, anti-humidity finishes, and refined modern aesthetics.",
+    "nearbyAreas": [
+      { "name": "Bandra", "slug": "modular-kitchen-in-bandra" },
+      { "name": "Pali Hill", "slug": "modular-kitchen-in-pali-hill" },
+      { "name": "Khar", "slug": "modular-kitchen-in-khar" }
+    ],
+    "popularLayouts": ["Open Concept Island", "Stainless Steel Sub-Frames", "Matte Quartz Surfaces"],
+    "landmarkContext": "Designed for premier coastal apartments along Carter Road promenade."
+  },
+  {
+    "id": "loc-mumbai-45",
+    "name": "Altamount Road",
+    "slug": "modular-kitchen-in-altamount-road",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400026",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Altamount Road, Mumbai | Billionaires' Row Kitchens",
+    "metaDescription": "Exclusive modular kitchen manufacturing for Altamount & Carmichael Road residences. Top-tier European hardware, motorized cabinets, and Italian quartz.",
+    "nearbyAreas": [
+      { "name": "Breach Candy", "slug": "modular-kitchen-in-breach-candy" },
+      { "name": "Nepean Sea Road", "slug": "modular-kitchen-in-nepean-sea-road" },
+      { "name": "Tardeo", "slug": "modular-kitchen-in-tardeo" }
+    ],
+    "popularLayouts": ["Master Island Kitchen", "Integrated Wine Chillers", "Custom Lacquer"],
+    "landmarkContext": "Engineered for South Mumbai's most prestigious luxury high-rises and private mansions."
+  },
+  {
+    "id": "loc-mumbai-46",
+    "name": "Nepean Sea Road",
+    "slug": "modular-kitchen-in-nepean-sea-road",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400006",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Nepean Sea Road, Mumbai | Luxury Kitchen Interiors",
+    "metaDescription": "Luxury modular kitchen design on Nepean Sea Road, Mumbai. Termite-proof, moisture-sealed BWP ply with premium German hinges and seamless countertops.",
+    "nearbyAreas": [
+      { "name": "Breach Candy", "slug": "modular-kitchen-in-breach-candy" },
+      { "name": "Walkeshwar", "slug": "modular-kitchen-in-walkeshwar" },
+      { "name": "Altamount Road", "slug": "modular-kitchen-in-altamount-road" }
+    ],
+    "popularLayouts": ["Modern Parallel Kitchen", "Breakfast Bar Island", "Anti-Fingerprint Matte"],
+    "landmarkContext": "Tailored for sea-facing apartments and family estates near Priyadarshini Park."
+  },
+  {
+    "id": "loc-mumbai-47",
+    "name": "Mazgaon",
+    "slug": "modular-kitchen-in-mazgaon",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400010",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Mazgaon, Mumbai | Quality Modern Kitchens",
+    "metaDescription": "Custom modular kitchens in Mazgaon, Mumbai. High-load drawer mechanisms, waterproof cabinetry, and 3D design consultations by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Byculla", "slug": "modular-kitchen-in-byculla" },
+      { "name": "Sewri", "slug": "modular-kitchen-in-sewri" },
+      { "name": "Parel", "slug": "modular-kitchen-in-parel" }
+    ],
+    "popularLayouts": ["L-Shape Kitchen", "Parallel Layout", "Durable Acrylic Shutters"],
+    "landmarkContext": "Renovating apartments and new developments near Mount Mary church and dockland precincts."
+  },
+  {
+    "id": "loc-mumbai-48",
+    "name": "Sewri",
+    "slug": "modular-kitchen-in-sewri",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400015",
+    "region": "South Mumbai",
+    "seoTitle": "Modular Kitchen in Sewri, Mumbai | Modern Waterfront Kitchens",
+    "metaDescription": "Turnkey modular kitchens in Sewri, Mumbai. Designed for modern harbourfront towers with moisture-resistant HDHMR and smooth soft-close hardware.",
+    "nearbyAreas": [
+      { "name": "Wadala", "slug": "modular-kitchen-in-wadala" },
+      { "name": "Parel", "slug": "modular-kitchen-in-parel" },
+      { "name": "Mazgaon", "slug": "modular-kitchen-in-mazgaon" }
+    ],
+    "popularLayouts": ["Parallel Kitchen", "L-Shape Kitchen", "Gloss Acrylic & Quartz"],
+    "landmarkContext": "Serving high-rise residential towers near Mumbai Trans Harbour Link (Atal Setu)."
+  },
+  {
+    "id": "loc-mumbai-49",
+    "name": "Tilak Nagar",
+    "slug": "modular-kitchen-in-tilak-nagar",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400089",
+    "region": "Eastern Suburbs",
+    "seoTitle": "Modular Kitchen in Tilak Nagar, Mumbai | Efficient Home Kitchens",
+    "metaDescription": "Functional and stylish modular kitchens in Tilak Nagar, Chembur. Custom pullouts, corner carousels, and boiling waterproof core boards with 10-year warranty.",
+    "nearbyAreas": [
+      { "name": "Chembur", "slug": "modular-kitchen-in-chembur" },
+      { "name": "Ghatkopar", "slug": "modular-kitchen-in-ghatkopar" },
+      { "name": "Kurla", "slug": "modular-kitchen-in-kurla" }
+    ],
+    "popularLayouts": ["Straight Kitchen", "Parallel Kitchen", "Textured Laminate"],
+    "landmarkContext": "Optimized for redevelopment flats and mid-rise societies in Tilak Nagar."
+  },
+  {
+    "id": "loc-mumbai-50",
+    "name": "Vidyavihar",
+    "slug": "modular-kitchen-in-vidyavihar",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400077",
+    "region": "Central Suburbs",
+    "seoTitle": "Modular Kitchen in Vidyavihar, Mumbai | Custom Kitchen Cabinets",
+    "metaDescription": "Modular kitchen design, manufacturing, and installation in Vidyavihar, Mumbai. Quality German fittings, ergonomic storage, and 3D visual preview by Miiday Studio.",
+    "nearbyAreas": [
+      { "name": "Ghatkopar", "slug": "modular-kitchen-in-ghatkopar" },
+      { "name": "Kurla", "slug": "modular-kitchen-in-kurla" },
+      { "name": "Chembur", "slug": "modular-kitchen-in-chembur" }
+    ],
+    "popularLayouts": ["L-Shape Kitchen", "Parallel Kitchen", "Anti-Scratch Acrylic"],
+    "landmarkContext": "Serving quiet residential neighbourhoods near Somaiya Vidyavihar campus."
+  }
+]
